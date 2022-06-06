@@ -52,7 +52,7 @@ require (
 	github.com/soheilhy/cmux v0.1.4
 	github.com/spf13/cobra v1.0.0
 	github.com/stretchr/testify v1.6.1
-	github.com/tidwall/gjson v1.3.5
+	github.com/tidwall/gjson v1.9.3
 	github.com/valyala/fasttemplate v1.1.0
 	github.com/xeipuuv/gojsonpointer v0.0.0-20190905194746-02993c407bfb // indirect
 	github.com/xeipuuv/gojsonschema v1.2.0
